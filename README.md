@@ -18,6 +18,10 @@ I am excited to learn about new and effective ways to tell different stories usi
 Data Visual 1
 <iframe src="https://data.oecd.org/chart/61Ei" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61Ei" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
+Data Visual 2
 <div class="flourish-embed flourish-chart" data-src="visualisation/3155327" data-url="https://flo.uri.sh/visualisation/3155327/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Data Visual 3
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3158850" data-url="https://flo.uri.sh/visualisation/3158850/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3168437" data-url="https://flo.uri.sh/visualisation/3168437/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
