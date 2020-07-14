@@ -13,8 +13,8 @@ I am excited to learn about new and effective ways to tell different stories usi
 </script>
 
 
-# Visualizing Government Debt Assignemt
+# Visualizing Government Debt Assignment
 
 
-[Visualizing Government Debt](/dataviz2.md)
+[Visualizing Government Debt Charts](/dataviz2.md)
 
