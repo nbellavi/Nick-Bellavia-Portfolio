@@ -33,3 +33,5 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+A note about the visualization: I could not figure out how to change the title "Day of Dates" when hovering on a data point. 
