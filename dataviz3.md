@@ -10,3 +10,9 @@ I was interested in trying to create a new visualization about the current pande
 At first, my critique process was simply taking a look at the layout of the data visualization and colors. My first initial impression was that this visualization could be presented in way that more clearly displays the data. I also thought that the colors used were effective and I wanted to try and carry that over to my redesign. Stephen Few's Data Visualization Effectiveness profile caused me to look at some other aspects of the visualization that I might not have otherwise. I began to consider things like truthfulness, perceptibility, and engagement. For me, the perceptibility was an area that I really wanted to try and improve. Truthfulness was another aspect I wanted to make sure was reliable. I believe the source (The Washington Post) conducted diligent and honest research. While the bar graph was an appropriate way to display this data, I thought a line graph might work better.
 
 This led me to begin sketiching and wireframing using pen, paper, and coloring tools. I started with sketching a redesign of false and misleading statements over Jan-July. Then, I also thought it might be worth a try to compare the false and misleading claims to the daily number of new coronavirus cases. All of this can be seen in the sketches below.
+
+# Sketches
+
+# Feedback
+
+# Redesign
