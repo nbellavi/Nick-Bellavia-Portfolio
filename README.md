@@ -36,4 +36,6 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 
 
-[Critique By Design](/dataviz3.md)
+# Critique By Design
+
+[Critique By Design Charts and Info](/dataviz3.md)
