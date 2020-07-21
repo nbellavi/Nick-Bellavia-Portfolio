@@ -30,4 +30,6 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
+
+
 [Critique By Design] (/dataviz3.md)
