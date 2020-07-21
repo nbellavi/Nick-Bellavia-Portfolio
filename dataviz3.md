@@ -13,6 +13,9 @@ This led me to begin sketiching and wireframing using pen, paper, and coloring t
 
 # Sketches
 
+![Sketch 1](https://user-images.githubusercontent.com/67565047/88086980-311f9200-cb56-11ea-9591-40528f72134f.jpg)
+
+
 # Feedback
 
 # Redesign
