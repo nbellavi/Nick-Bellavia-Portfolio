@@ -34,4 +34,6 @@ Sketches
 
 ![Sketches 1](https://user-images.githubusercontent.com/67565047/88599480-dc8a8400-d039-11ea-98d2-c636bff1d431.jpg)
 
+![Sketches 2](https://user-images.githubusercontent.com/67565047/88599535-00e66080-d03a-11ea-9ed1-d9f55dc66dad.jpg)
+
 
