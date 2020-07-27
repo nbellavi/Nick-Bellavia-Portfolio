@@ -14,3 +14,14 @@ In an industry that prides itself on trying to be equitable, the Academy Awards 
 ![Story Arc](https://user-images.githubusercontent.com/67565047/88598913-6b969c80-d038-11ea-8898-7409023d7fca.jpg)
 
 I will be using Shorthand to complete this project. Shorthand will allow me the opportunity to give some historical context about the Academy Awards since its inception in 1929 and show through data and visuals some statistics that tell the story of improving equality in film awards. It will also allow me to show ways in which diversity has been improved, areas in which the Academy still struggles, and methods that we can all do to promote more equality in the entertainment industry, even as just casual viewers.
+
+# The Data
+
+The data used for the project comes from two sources. The first is a publicly accessible list from
+Data.World. The data set is titled “Academy Award Demographics” and it shows Oscar winners in the top five award categories since 1929. It also notes the winner’s religion and ethnicity. I will only be using the ethnicity category for this project. Other information used to supplement the list was gathered from the official Academy Award website.
+
+https://data.world/crowdflower/academy-awards-demographics/activity
+http://awardsdatabase.oscars.org
+
+
+
