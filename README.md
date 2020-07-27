@@ -39,3 +39,11 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 # Critique By Design
 
 [Critique By Design Charts and Info](/dataviz3.md)
+
+
+
+# Final Project
+
+[Final Project](/dataviz4.md)
+
+
