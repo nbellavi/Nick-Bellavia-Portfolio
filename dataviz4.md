@@ -18,7 +18,7 @@ I will be using Shorthand to complete this project. Shorthand will allow me the 
 # The Data
 
 The data used for the project comes from two sources. The first is a publicly accessible list from
-Data.World. The data set is titled “Academy Award Demographics” and it shows Oscar winners in the top five award categories since 1929. It also notes the winner’s religion and ethnicity. I will only be using the ethnicity category for this project. Other information used to supplement the list was gathered from the official Academy Award website.
+Data.World. The data set is titled “Academy Award Demographics” and it shows Oscar winners in the top five award categories since 1929. It also notes the winner’s religion and ethnicity. I will only be using the ethnicity category for this project. Other information used to supplement the list was gathered from the official Academy Award website. The links to the two data sources:
 
 https://data.world/crowdflower/academy-awards-demographics/activity
 http://awardsdatabase.oscars.org
