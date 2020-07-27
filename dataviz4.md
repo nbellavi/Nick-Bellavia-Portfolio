@@ -26,4 +26,8 @@ http://awardsdatabase.oscars.org
 
 # Sketches and Wireframe
 
+Intitial Rough Sketch Ideas
+
+![Initial Rough Sketch Ideas](https://user-images.githubusercontent.com/67565047/88599298-7271df00-d039-11ea-9595-8a6d494aa8ae.jpg)
+
 
