@@ -11,3 +11,6 @@ The story arc will begin with a general observation. Award shows are fun! It is 
 In an industry that prides itself on trying to be equitable, the Academy Awards are anything but. Outside of the best actress and best supporting actress categories, the majority of winners of been white males. The Academy has been called out for this lack of diversity many times, but it still continued to happen. It wasn’t until 2015 that the winds began to change with the #OscarsSoWhite movement. Since then, more minority film makers have been recognized in the five major categories, but more work needs to be done. The overall story can be viewed in the draft story arc below.
 
 
+![Story Arc](https://user-images.githubusercontent.com/67565047/88598913-6b969c80-d038-11ea-8898-7409023d7fca.jpg)
+
+I will be using Shorthand to complete this project. Shorthand will allow me the opportunity to give some historical context about the Academy Awards since its inception in 1929 and show through data and visuals some statistics that tell the story of improving equality in film awards. It will also allow me to show ways in which diversity has been improved, areas in which the Academy still struggles, and methods that we can all do to promote more equality in the entertainment industry, even as just casual viewers.
