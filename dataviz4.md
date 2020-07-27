@@ -30,4 +30,8 @@ Intitial Rough Sketch Ideas
 
 ![Initial Rough Sketch Ideas](https://user-images.githubusercontent.com/67565047/88599298-7271df00-d039-11ea-9595-8a6d494aa8ae.jpg)
 
+Sketches
+
+![Sketches 1](https://user-images.githubusercontent.com/67565047/88599480-dc8a8400-d039-11ea-98d2-c636bff1d431.jpg)
+
 
