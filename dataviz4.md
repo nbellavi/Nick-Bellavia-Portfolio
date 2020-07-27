@@ -40,4 +40,4 @@ Storyboard Sketches
 
 ![Storyboard 1](https://user-images.githubusercontent.com/67565047/88599591-24a9a680-d03a-11ea-9b35-67d7aff10349.jpg)
 
-
+![Storyboard 2](https://user-images.githubusercontent.com/67565047/88599657-46a32900-d03a-11ea-89ba-ec9d380d4186.jpg)
