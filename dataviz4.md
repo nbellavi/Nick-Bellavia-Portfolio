@@ -63,3 +63,18 @@ C.	Interview script
 -Question 5: Is there anything you would want to change or improve?
 
 D.	Findings from interviews
+
+Dan
+Question 1: I think this is a series of charts about Hollywood and the Academy Awards.
+Question 2: I think these charts are trying to tell me something about diversity, or the lack thereof, in Hollywood. More specifically in the top 5 categories of the Academy Awards. The storyboard/wireframe is an outline of a presentation? I’m not familiar with a wireframe.
+Question 3: As someone who pays attention to this subject, I knew there was a lack of diversity in Hollywood but I did not know that it was to this extent. I feel like the visualizations could be a little clearer particularly in the stacked bar visualization. It’s hard to distinguish the other colors besides the gray.
+Question 4: I think the intended audience is students in a film school or someone interested in the history of Hollywood. Maybe for people in the industry?
+Question 5: One thing I would like to see is an overall comparison of white winners vs. minority winners from 1929-2020. I think doing something like this might help simplify some of the visuals. I’d make sure to create clear titles as well. Also, the key could be confusing to some with color and the ethnicity.
+
+Mark
+Question 1: This appears to be charts and an outline of some type about the movie industry and awards given to actors and actresses.
+Question 2: I’m not entirely sure. Something about white actors v. minority actors and awards I think. It looks like there have been a lot of white winners since 1929 and not many minority winners although there have been some more in the past few years. 
+Question 3: I’m surprised by your ability to sketch. I wish I could say that I’m surprised by this lack of diversity but I’m really not. I am surprised to see it presented in such a visual way.
+Question 4: I think the intended audience is other actors and actresses. Possibly students?
+Question 5: In the storyboard, I would make sure to focus more on the visualizations instead of the historical context. Keep this brief if possible. Instead of bar graphs, I’d be curious to see what this data would like in a line graph.
+
