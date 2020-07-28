@@ -49,3 +49,17 @@ Wireframe
 
 # User Research and Interviews
 
+A.	Target Audience
+-The target audience I hope to reach with this story is professionals in the entertainment industry who are interested in learning more about diversity issues and what they can do to help bring about significant change.
+
+B.	Approach to identifying representative individuals
+-My approach to identifying individuals to be interviewed was fairly straight forward. I wanted to select people who would give me honest feedback and who would be easily communicated with virtually since we cannot get together. I selected my partner, Carly, who gives me honest feedback. I selected my friend, Dan, who lives in Philadelphia and is also interested in this topic. Finally, I selected my dad, Mark, who would be excited to be involved in one of my projects.
+
+C.	Interview script
+-Question 1: What do you think this is?
+-Question2: What do you think these visualizations are trying to tell you? Do you think there is a story?
+-Question 3: Anything you find surprising, confusing, or unclear?
+-Question 4: Who do you think the intended audience is for this?
+-Question 5: Is there anything you would want to change or improve?
+
+D.	Findings from interviews
