@@ -2,7 +2,7 @@
 
 With this project, I am interested in showing the diversity issue in Hollywood through the lens of the Academy Awards. Hollywood has always claimed it is a diverse industry but when it comes to honoring the work of minority groups, there is a lot of room for improvement. The target group for this presentation is people working in the entertainment industry who want to know more about the topic and see an evolution of diversity in Hollywood and learn about ways they can help. For this class, I want people to know some of the things they can do to make movies more diverse and equitable.
 
-As a reader and a viewer of a lot of movies, I want to see more international and minority films recognized at the Academy Awards in the five major individual categories (Best Director, so that they become well known, more accessible to average viewer, and a larger part of the public consciousness.
+As a reader and a viewer of a lot of movies, I want to see more international and minority films recognized at the Academy Awards in the five major individual categories (Best Director, Best Actor, Best Actress, Best Supporting Actor, Best Supporting Actress) so that they become well known, more accessible to average viewer, and a larger part of the public consciousness.
 
 
 # The Story
