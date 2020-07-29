@@ -78,3 +78,20 @@ Question 3: I’m surprised by your ability to sketch. I wish I could say that I
 Question 4: I think the intended audience is other actors and actresses. Possibly students?
 Question 5: In the storyboard, I would make sure to focus more on the visualizations instead of the historical context. Keep this brief if possible. Instead of bar graphs, I’d be curious to see what this data would like in a line graph.
 
+Carly
+
+Question 1: Disproportionately white and male award winners. 2019 seems to show improving diversity with a backslide in 2020:
+Question 2: I think this is telling me that historically, and potentially still now, there is an underrepresentation of people of color. This seems especially highlighted by director winners.
+Question 3: Surprising that in 2020 (on the bar graph) it is back to being primarily white after a very diverse 2019.
+Question 4: Anyone in our society, movie watchers, call to action placed on those in the majority to recognize this and for all of us to demand better representation. Audience – maybe those who would deny this as a problem?
+Question 5: Clearly notate and label graphs to give context. I’d be curious to know how the numbers compare to the nominees v. the winners. Are the nominees more diverse and the winners more often white? Or do the trends stay consistent?
+
+Planned Revisions to Implement from Feedback
+
+-I need to fine tune some of the colors for clarity.
+-I need to create clear titles and make sure the x and y-axis are clearer.
+-In the presentation, I think I need to find an appropriate balance of historical context and data
+-I want to try and find some data on nominees v. winners but I’m not sure if time will permit for this project.
+-I need to make a visualization comparing overall percentages of white v. minority winners.
+
+
