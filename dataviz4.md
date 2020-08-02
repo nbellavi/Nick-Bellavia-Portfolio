@@ -94,4 +94,14 @@ Planned Revisions to Implement from Feedback
 -I want to try and find some data on nominees v. winners but I’m not sure if time will permit for this project.
 -I need to make a visualization comparing overall percentages of white v. minority winners.
 
+# Revised Wireframe
 
+![New Wireframe 2](https://user-images.githubusercontent.com/67565047/89133923-51eccd80-d4ee-11ea-983a-acfb9d89aab8.png)
+
+# Final Data Story
+
+At first, I thought the audience for this project was going to be targeted towards people in the film industry. After I received feedback from numerous people, it became clear that this topic goes beyond just people in the industry. Movies are a reflection of our society and culture. Whether someone likes them or not, it is important to learn about areas were racism and inequity still exist and it is important to learn about it. I changed some of the information to better appeal to a wider audience who may not possess a lot of film knowledge but can learn how they can help to make things better.
+
+The process of this project was eye opening and enjoyable. It is fun to tell stories, but stories can be taken to another level when we have data to support them. I feel that this class prepared me well to think about the design and layout of this project that support the overall story.
+Many of the design decisions revolved around color and chart type. Color was something that I was popular and the feedback and I tried to make effective changes. I also tried various charts and thought this data was best represented by the ones in the project. This is a topic that I am very interested, and it is a story that needs to be told over and over again until meaning change is permanent. My process for telling this story began with the idea and continued to evolve as I moved through it. I thought it was appropriate to open the presentation with the problem and then with some brief historical context. The data then follows. As I continued through this project, I came to the realization that it is not fair to say that nothing has changed with regards to diversity and inclusion in Hollywood. It was unequal for a long time, but in the past few years, there have been positive steps forward. It is just that this progress needs to continue.
+I hope that the final project reflects this story. For anyone who is interested in movies or interested in learning about ways to make a meaningful change somewhere, I hope they enjoy. This story has been told better before me and will be told better after me, but if it can change one mind, I think it will have been successful.
