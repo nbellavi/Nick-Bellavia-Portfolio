@@ -107,3 +107,7 @@ Many of the design decisions revolved around color and chart type. Color was som
 I hope that the final project reflects this story. For anyone who is interested in movies or interested in learning about ways to make a meaningful change somewhere, I hope they enjoy. This story has been told better before me and will be told better after me, but if it can change one mind, I think it will have been successful.
 
 # Link to Final Project
+
+
+<script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/and-the-award-goes-to---/"><h1>And The Award Goes To...</h1><p>Lack of Diversity at the Academy Awards</p></div>
