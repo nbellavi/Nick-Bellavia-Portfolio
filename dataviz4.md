@@ -108,6 +108,4 @@ I hope that the final project reflects this story. For anyone who is interested 
 
 # Link to Final Project
 
-
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/and-the-award-goes-to---/"><h1>And The Award Goes To...</h1><p>Lack of Diversity at the Academy Awards</p></div>
+https://carnegiemellon.shorthandstories.com/and-the-award-goes-to---/index.html
